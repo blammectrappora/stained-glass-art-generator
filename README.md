@@ -72,3 +72,13 @@ Returns a direct image URL.
 | `tall` | 704 x 1408 |
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node stainedglassartgenerator.js "a beautiful stained glass art panel, luminous jewel-toned colors, bold dark lead lines separating glass segments, radiant light shining through translucent colored glass, intricate detailed glasswork pattern, cathedral window aesthetic"
+```
+
+![Example output](https://oss.talesofai.cn/picture/027e5a16-ce53-410d-9a09-350d89db93f8.webp)
+
+> Prompt: *"a beautiful stained glass art panel, luminous jewel-toned colors, bold dark lead lines separating glass segments, radiant light shining through translucent colored glass, intricate detailed glasswork pattern, cathedral window aesthetic"*
